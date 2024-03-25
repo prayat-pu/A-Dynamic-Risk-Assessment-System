@@ -1,0 +1,1 @@
+{"lastmonth_activity": {"mean": 76.6, "median": 34.0, "std": 96.13948200401332}, "lastyear_activity": {"mean": 3100.4, "median": 675.0, "std": 5232.801907200386}, "number_of_employees": {"mean": 227.2, "median": 25.0, "std": 433.7138457554704}}

@@ -1,0 +1,1 @@
+10 * * * * python "c:/Users/BOSSS/Desktop/Udacity/MLOps/Projects/Chapter3/A Dynamic Risk Assessment System/fullprocess.py"
